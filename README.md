@@ -67,7 +67,7 @@ You need the [whole Poppins font family](https://fonts.google.com/share?selectio
 - `Poppins-Black.ttf` (900)
 - `Poppins-BlackItalic.ttf`
 
-if the file name is not follow to this standard, make sure to rename them.
+if the file name doesn't follow to this standard, make sure to rename them.
 
 ### Find the font family name
 
